@@ -19,9 +19,7 @@
 | [Vanuatu Language Dataset](https://zenodo.org/record/4311161) | Phonetically transcribed audios |
 | [VidTimit](https://zenodo.org/record/158963) | " Video and corresponding audio recordings of 43 people, reciting short sentences. Useful for research on topics such as automatic lip reading, multi-view face recognition, multi-modal speech recognition and person identification." |
 | [Audio Caption - Hospital and Car](https://zenodo.org/record/5833263) | "This dataset consists of the Hospital scene of our Audio Caption dataset. Details can be seen in our paper Audio Caption: Listen and Tell published at ICASSP2019. Car scene, detailed in Audio Caption in a Car Setting with a Sentence-Level Loss published at ISCSLP 2021. Original captions in Mandarin Chinese, with English translations provided. " |
-| [Artificial sound mixes with event insertion](https://zenodo.org/record/3236975) | "The mixes were created using background and event audio recordings
-from Tampere University's Detection and Classification of Acoustic Scenes and
-Events (DCASE) Community." Contains event id, activity start and end time. |
+| [Artificial sound mixes with event insertion](https://zenodo.org/record/3236975) | "The mixes were created using background and event audio recordings from Tampere University's Detection and Classification of Acoustic Scenes and Events (DCASE) Community." Contains event id, activity start and end time." |
 
 # Voice-to-Face
 
