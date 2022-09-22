@@ -10,6 +10,7 @@
 | [CREMA-D](https://github.com/CheyneyComputerScience/CREMA-D) |  48 male and 43 female actors between the ages of 20 and 74 coming from a variety of races and ethnicities (African America, Asian, Caucasian, Hispanic, and Unspecified). Age, Sex, Race, and Ethicity. |
 | [CaFE](https://zenodo.org/record/1478765) | The Canadian French Emotional (CaFE) speech dataset contains six different sentences, pronounced by six male and six female actors, in six basic emotions plus one neutral emotion. The six basic emotions are acted in two different intensities: mild ("Faible") and strong ("Fort"). |
 | [eNTERFACE'05](https://github.com/michen00/multilingual_speech_valence_classification_datasets/tree/main/datasets/enterface_db) | Dataset with audio and video data. Emotions: happiness, sadness, surprise, anger, disgust and fear. |
+| [BIRAFFE](https://zenodo.org/record/3922055) | Dataset containing signals captured from electrocardiogram (ECG), galvanic skin reaction (GSR) and changes in facial expression after a video stimuli. Contains also participants' self-assessment of their emotion states, valence and arousal level, and "Big Five" personality traits.  |
 
 # Audio Event Dataset
 
@@ -17,11 +18,7 @@
 | - | - |
 | [Vanuatu Language Dataset](https://zenodo.org/record/4311161) | Phonetically transcribed audios |
 | [VidTimit](https://zenodo.org/record/158963) | " Video and corresponding audio recordings of 43 people, reciting short sentences. Useful for research on topics such as automatic lip reading, multi-view face recognition, multi-modal speech recognition and person identification." |
-| [Audio Caption - Hospital and Car](https://zenodo.org/record/5833263) | "This dataset consists of the Hospital scene of our Audio Caption dataset. Details can be seen in our paper Audio Caption: Listen and Tell published at ICASSP2019. 
-
-Car scene, detailed in Audio Caption in a Car Setting with a Sentence-Level Loss published at ISCSLP 2021.
-
-Original captions in Mandarin Chinese, with English translations provided. " |
+| [Audio Caption - Hospital and Car](https://zenodo.org/record/5833263) | "This dataset consists of the Hospital scene of our Audio Caption dataset. Details can be seen in our paper Audio Caption: Listen and Tell published at ICASSP2019. Car scene, detailed in Audio Caption in a Car Setting with a Sentence-Level Loss published at ISCSLP 2021. Original captions in Mandarin Chinese, with English translations provided. " |
 | [Artificial sound mixes with event insertion](https://zenodo.org/record/3236975) | "The mixes were created using background and event audio recordings
 from Tampere University's Detection and Classification of Acoustic Scenes and
 Events (DCASE) Community." Contains event id, activity start and end time. |
